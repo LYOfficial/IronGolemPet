@@ -2,6 +2,9 @@
 
 > 铁傀儡开凿机，但是桌宠。
 
+<img width="474" height="318" alt="image" src="https://github.com/user-attachments/assets/70fd368a-ced5-41fb-9897-64802b859ba0" />
+
+
 ## 功能特性
 
 - 🎃 **Minecraft风格设计**: 采用 Minecraft 原版方块材质。
