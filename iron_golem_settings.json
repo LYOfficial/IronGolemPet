@@ -1,0 +1,6 @@
+{
+  "hourly_chime": false,
+  "countdown_enabled": false,
+  "countdown_minutes": 1,
+  "auto_start": false
+}
