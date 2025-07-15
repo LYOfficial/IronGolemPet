@@ -2,6 +2,13 @@
 
 > 铁傀儡开凿机，但是桌宠。
 
+![GitHub Repo stars](https://img.shields.io/github/stars/LYOfficial/IronGolemPet?style=flat&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/LYOfficial/IronGolemPet?style=flat&logo=github)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LYOfficial/IronGolemPet?style=flat&logo=github)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LYOfficial/IronGolemPet?style=flat&logo=github)
+
+喜欢的话欢迎点个 Star，也欢迎一起 Pr 整点新东西！
+
 <img width="474" height="318" alt="image" src="https://github.com/user-attachments/assets/70fd368a-ced5-41fb-9897-64802b859ba0" />
 
 
